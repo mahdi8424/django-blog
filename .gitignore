@@ -15,7 +15,7 @@ staticfiles/
 
 # Environment Variables
 .env
-
+.venv
 # IDEs
 .vscode/
 .idea/
